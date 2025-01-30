@@ -583,6 +583,21 @@ Para soporte técnico o consultas:
 - Incluir logs relevantes
 - Especificar entorno de desarrollo
 
+## Repositorio de GitHub
+
+El código fuente del proyecto está disponible en GitHub:
+- URL del repositorio: https://github.com/gregorio-leiva/ChatBot
+- Rama principal: main
+
+### Archivos Excluidos
+Por razones de seguridad, los siguientes archivos no están incluidos en el repositorio:
+- `.env` (contiene credenciales y configuraciones sensibles)
+- `db.sqlite3` (base de datos local)
+- Archivos de caché y compilados
+- Archivos de medios subidos por usuarios
+
+Se proporciona un archivo `.env.example` como plantilla para configurar las variables de entorno necesarias.
+
 ## Mejoras en el Perfil de Usuario (20/01/2025)
 
 ### Gestión de Imágenes de Perfil
