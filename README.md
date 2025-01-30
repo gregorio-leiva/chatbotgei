@@ -1,3 +1,4 @@
+
 # DeepSeek Chatbot
 
 A Django-based chatbot application using DeepSeek AI for intelligent conversations.
@@ -49,3 +50,6 @@ python manage.py runserver
 - Real-time chat interface
 - DeepSeek AI integration
 - PostgreSQL database for message storage
+=======
+# chatbotgei
+este es el chatbotgei que solo funciona por ahora la logica del bot con ia, sin login
